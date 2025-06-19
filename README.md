@@ -16,4 +16,4 @@ A media player application allows users to play audio and video files. Typically
 
 OUTPUT:
 
-[media image.txt](https://github.com/user-attachments/files/20820497/media.image.txt)
+![Image](https://github.com/user-attachments/assets/db5f1917-59be-49c2-98cb-02730a00c7e7)
