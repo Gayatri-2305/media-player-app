@@ -12,7 +12,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-A media player application allows users to play audio and video files. Typically, it includes features like playback control (play, pause, stop, next, previous), volume adjustment, and potentially a playlist or queue system. In this media player app project i used HTML,CSS,JAVA,JAVASCRIPT.
+A media player application allows users to play audio and video files. Typically, it includes features like playback control (play, pause, stop, next, previous), volume adjustment, and potentially a playlist or queue system. In this media player app project i used  JAVA,HTML,CSS,JAVASCRIPT.
 
 OUTPUT
 
